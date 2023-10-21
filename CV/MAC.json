@@ -45,7 +45,12 @@
         "roles": [
           {
             "name": "Desarrollador back-end",
-            "startDate": "2019-05-01"
+            "startDate": "2019-05-01",
+            "challenges": [
+              {
+                "description": "- Ingeniero de Software en el departamento de Transformación Digital.\n- Desarrollo y mantenimiento de aplicaciones Java (Spring Framework) y Angular.\n- Experiencia en entornos GCP. Despliegue de aplicaciones en GCE, GAE y GKE.\n- Experiencia en entornos AWS.\n- Desarrollo y participación en proyectos de arquitectura (PoC’s).\n- Responsable de tutorización de nuevas incorporaciones."
+              }
+            ]
           }
         ]
       },
