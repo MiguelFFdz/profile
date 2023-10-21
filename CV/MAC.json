@@ -89,6 +89,10 @@
                 "type": "technology"
               },
               {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
                 "name": "SQLServer",
                 "type": "technology"
               },
