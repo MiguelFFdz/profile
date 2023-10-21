@@ -282,6 +282,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Scrum Level",
+        "startDate": "2018-12-01",
+        "institution": {
+          "name": "Scrum Manager",
+          "description": "Capacitación necesaria para comprender y gestionar el despliegue de la agilidad en una organización.",
+          "URL": "https://scrummanager.com/website/c/profile/member.php?id=21436",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/eaa87135-8e9b-44b3-bcab-4b27a7dc7c7d_smalllogo-(1).png",
+            "alt": "smalllogo (1).png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Scrum Master",
         "startDate": "2018-09-01",
         "institution": {
