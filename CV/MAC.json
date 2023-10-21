@@ -191,6 +191,10 @@
                 "type": "technology"
               },
               {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
                 "name": "SVN",
                 "type": "technology"
               },
