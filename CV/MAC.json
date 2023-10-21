@@ -113,6 +113,32 @@
               {
                 "description": "- Desarrollador Senior responsable de producto.\n- Desarrollo de APIs para consumo de aplicaciones móviles en PHP y Java.\n- Administración de servidores Linux (AWS)."
               }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
             ]
           }
         ]
