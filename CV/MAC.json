@@ -89,7 +89,11 @@
       },
       {
         "organization": {
-          "name": "SmartKids Academy"
+          "name": "SmartKids Academy",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/101c1dc2-d40d-4bfb-9a38-a57cffc86a78_smartkids300.png",
+            "alt": "SmartKids300.png"
+          }
         },
         "roles": [
           {
