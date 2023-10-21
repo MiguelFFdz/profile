@@ -65,6 +65,10 @@
                 "type": "technology"
               },
               {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
                 "name": "Jira",
                 "type": "technology"
               },
