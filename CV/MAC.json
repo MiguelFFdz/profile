@@ -261,6 +261,40 @@
               {
                 "description": "- Desarrollo Web y Soluciones E-Commerce.\n- Mantenimiento de ordenadores y redes en empresas.\n- Instalación de redes locales.\n- Instalación, configuración y montaje de TPV’s (Terminales Punto de Venta)."
               }
+            ],
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaFX",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
             ]
           }
         ]
