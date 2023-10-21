@@ -353,6 +353,20 @@
         "finishDate": "2002-06-01"
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Implementación de soluciones de movilidad con tecnología web",
+        "startDate": "2014-12-01",
+        "institution": {
+          "name": "FADE",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/02992b33-3dd0-48a3-b0e5-ff3322e4b06e_real-federacion-astu.jpg",
+            "alt": "real-federacion-asturiana.jpg"
+          }
+        },
+        "finishDate": "2014-12-01"
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Product Owner",
