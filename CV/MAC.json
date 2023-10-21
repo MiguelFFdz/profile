@@ -98,6 +98,22 @@
             "finishDate": "2016-06-30"
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Rubiera Predisa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/430cd591-64e2-4fa6-8117-859339965279_images.jpeg",
+            "alt": "images.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable de informática",
+            "startDate": "2001-04-01",
+            "finishDate": "2014-10-01"
+          }
+        ]
       }
     ]
   },
