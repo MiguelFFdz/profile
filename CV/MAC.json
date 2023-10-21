@@ -118,6 +118,18 @@
             "finishDate": "2014-10-01"
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Ever, Soluciones Informáticas"
+        },
+        "roles": [
+          {
+            "name": "Técnico Outsourcing - Desarrollador Web",
+            "startDate": "2001-04-01",
+            "finishDate": "2007-03-01"
+          }
+        ]
       }
     ]
   },
