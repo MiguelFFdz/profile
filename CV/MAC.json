@@ -115,7 +115,12 @@
           {
             "name": "Responsable de informática",
             "startDate": "2007-04-01",
-            "finishDate": "2014-10-01"
+            "finishDate": "2014-10-01",
+            "challenges": [
+              {
+                "description": "- Responsable del Departamento Informático.\n- Diseño e implantación del gestor de contenidos web.\n- Desarrollo de gestor documental.\n- Desarrollo web corporativa.\n- Implantación de software para control de stocks."
+              }
+            ]
           }
         ]
       },
