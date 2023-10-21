@@ -219,6 +219,52 @@
               {
                 "description": "- CTO. Formación en programación e impresión 3D para jóvenes de primaria y secundaria.\n- Desarrollo de sistema de robótica con hardware libre."
               }
+            ],
+            "competences": [
+              {
+                "name": "Arduino",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "FreeCad",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
             ]
           }
         ]
