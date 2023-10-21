@@ -53,6 +53,10 @@
             ],
             "competences": [
               {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
                 "name": "Confluence",
                 "type": "technology"
               },
