@@ -238,7 +238,37 @@
             "finishDate": "2014-10-01",
             "challenges": [
               {
-                "description": "- Responsable del Departamento Informático.\n- Diseño e implantación del gestor de contenidos web.\n- Desarrollo de gestor documental.\n- Desarrollo web corporativa.\n- Implantación de software para control de stocks."
+                "description": "- Responsable del Departamento Informático.\n- Diseño e implantación del gestor de contenidos web.\n- Integración de gestor documental.\n- Desarrollo web corporativa.\n- Implantación de software para control de stocks."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaFX",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
               }
             ]
           }
