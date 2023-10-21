@@ -367,6 +367,20 @@
         "finishDate": "2014-12-01"
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Primeros Auxilios",
+        "startDate": "2007-11-01",
+        "institution": {
+          "name": "Indespre",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/da63c88b-109d-4b49-a675-c4b0aec10f09_logoindespre.png",
+            "alt": "LogoIndespre.png"
+          }
+        },
+        "finishDate": "2007-11-01"
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Product Owner",
