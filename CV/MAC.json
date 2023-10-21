@@ -323,6 +323,16 @@
             "alt": "smalllogo.png"
           }
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Informática de gestión",
+        "startDate": "1997-10-01",
+        "institution": {
+          "name": "Centro de Estudios Arsenio Toral"
+        },
+        "finishDate": "1999-06-01"
       }
     ],
     "softSkills": [
