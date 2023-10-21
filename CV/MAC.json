@@ -99,7 +99,12 @@
           {
             "name": "CTO",
             "startDate": "2014-12-01",
-            "finishDate": "2016-06-30"
+            "finishDate": "2016-06-30",
+            "challenges": [
+              {
+                "description": "- CTO. Formación en programación e impresión 3D para jóvenes de primaria y secundaria.\n- Desarrollo de sistema de robótica con hardware libre."
+              }
+            ]
           }
         ]
       },
