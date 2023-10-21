@@ -78,9 +78,34 @@
             "name": "Gestor de clientes y Desarrollador back-end",
             "startDate": "2016-05-01",
             "finishDate": "2019-02-01",
+            "challenges": [
+              {
+                "description": "- Técnico del equipo de desarrollo de Comunicación Digital, proyectos y soporte.\n- Gestor de proyectos para clientes de alto perfil técnico."
+              }
+            ],
             "competences": [
               {
                 "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
                 "type": "technology"
               }
             ]
