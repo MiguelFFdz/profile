@@ -307,7 +307,7 @@
         "startDate": "2018-10-01",
         "institution": {
           "name": "Scrum Manager",
-          "description": "Formación homologada por Scrum Manager y enfocada al desarrollo de habilidades y conocimientos necesarios para desempeñar el rol de product owner en equipos ágiles.",
+          "description": "Formación homologada por Scrum Manager y enfocada al desarrollo de habilidades y conocimientos necesarios para desempeñar el rol de Product Owner en equipos ágiles.",
           "URL": "https://scrummanager.com/website/c/profile/member.php?id=21436",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/e73acc0f-a27a-46e5-9bb7-952d196d68d3_smalllogo-(2).png",
@@ -348,7 +348,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
+        "name": "TECNICO SUPERIOR EN DESARROLLO DE APLICACIONES",
         "startDate": "2007-10-01",
         "institution": {
           "name": "CIFP Valliniello (Avilés)."
