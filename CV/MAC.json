@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/miguel-fern%C3%A1ndez-fern%C3%A1ndez-35b0a2142/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/MiguelFFdz"
       }
     ]
   },
@@ -130,6 +134,10 @@
         {
           "URL": "https://www.linkedin.com/in/miguel-fern%C3%A1ndez-fern%C3%A1ndez-35b0a2142/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/MiguelFFdz",
+          "type": "github"
         }
       ],
       "contactMails": [
