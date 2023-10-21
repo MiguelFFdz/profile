@@ -280,6 +280,17 @@
     ],
     "studies": [
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "INGENIERIA TECNICA INFORMATICA",
+        "startDate": "1999-11-01",
+        "institution": {
+          "name": "EUITI de Gijón",
+          "description": "Sin Concluir"
+        },
+        "finishDate": "2002-06-01"
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Product Owner",
