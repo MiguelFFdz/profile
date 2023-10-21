@@ -61,7 +61,12 @@
           {
             "name": "Desarrollador back-end",
             "startDate": "2019-02-01",
-            "finishDate": "2019-05-31"
+            "finishDate": "2019-05-31",
+            "challenges": [
+              {
+                "description": "- Desarrollador Senior responsable de producto.\n- Desarrollo de APIs para consumo de aplicaciones móviles en PHP y Java.\n- Administración de servidores Linux (AWS)."
+              }
+            ]
           }
         ]
       },
