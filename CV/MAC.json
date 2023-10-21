@@ -282,6 +282,16 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "FPII TECNICO ESPECIALISTA INFORMATICA DE GESTION",
+        "startDate": "1997-10-01",
+        "institution": {
+          "name": "Centro de Estudios Arsenio Toral"
+        },
+        "finishDate": "1999-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "INGENIERIA TECNICA INFORMATICA",
         "startDate": "1999-11-01",
         "institution": {
@@ -344,16 +354,6 @@
           "name": "CIFP Valliniello (Avilés)."
         },
         "finishDate": "2009-06-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Técnico Superior en Informática de gestión",
-        "startDate": "1997-10-01",
-        "institution": {
-          "name": "Centro de Estudios Arsenio Toral"
-        },
-        "finishDate": "1999-06-01"
       }
     ],
     "softSkills": [
