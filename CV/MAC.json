@@ -1,0 +1,170 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Miguel",
+      "surnames": "Fernández Fernández",
+      "title": "Desarrollador",
+      "description": "Desarrollador BackEnd, principalmente con Java, aunque también con Python, PHP, node... \n\nAporto experiencia en el desarrollo FrontEnd sobre todo en Angular ya que tengo amplia experiencia en importantes proyectos con este framework.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/ec0f8ac7-6115-4773-9524-8491a0bcd349_linkedin-photo-8061.linkedin-photo-8061",
+        "alt": "23/10/21/ec0f8ac7-6115-4773-9524-8491a0bcd349_linkedin-photo-8061.linkedin-photo-8061"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJv5T0y2Z8Ng0RNjWNBAfSBr0)",
+        "country": "España",
+        "region": "Principado de Asturias",
+        "municipality": "Gijón"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/miguel-fern%C3%A1ndez-fern%C3%A1ndez-35b0a2142/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Intermark it",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/e1761ba9-d8b1-447b-924a-8d9f6a9586da_linkedin-photo-8061.linkedin-photo-8061",
+            "alt": "23/10/21/e1761ba9-d8b1-447b-924a-8d9f6a9586da_linkedin-photo-8061.linkedin-photo-8061"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador back-end",
+            "startDate": "2019-05-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PROMETEO Innovations",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/1f5b2561-bd37-4edb-a9c3-292559f55f0f_linkedin-photo-8061.linkedin-photo-8061",
+            "alt": "23/10/21/1f5b2561-bd37-4edb-a9c3-292559f55f0f_linkedin-photo-8061.linkedin-photo-8061"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web",
+            "startDate": "2019-02-01",
+            "finishDate": "2019-05-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Intermark it",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/ae32c060-895d-491e-bdf0-4d869ecb796f_linkedin-photo-8061.linkedin-photo-8061",
+            "alt": "23/10/21/ae32c060-895d-491e-bdf0-4d869ecb796f_linkedin-photo-8061.linkedin-photo-8061"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2016-05-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SmartKids Academy"
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2014-12-01",
+            "finishDate": "2016-06-30"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "ES",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/miguel-fern%C3%A1ndez-fern%C3%A1ndez-35b0a2142/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "miguelffdz@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "637849371",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Tech Lead"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me motivan los retos y me apasiona seguir aprendiendo. No me asusta al código legacy, incluso opino que el mantenimiento de aplicaciones de este tipo puede aportar un rico aprendizaje siempre que se sepa enfocar de la forma adecuada. Me gusta estar al día, investigar y mejorar mis habilidades. Leer documentación, artículos sobre programación o nuevas soluciones. Me gusta hacer \"Hola mundos\" de todo tipo. He participado en la formación de muchas compañeros y compañeros, dando importancia a las buenas prácticas por encima de otras cosas. He disfrutado mucho de estas formaciones y seguramente he aprendido más de lo que he llegado a trasmitir. No me gusta mucho la burocracia, que la rigidez de las formas o de los procedimientos se anteponga a la agilidad para la resolución de un problema. Respecto al entorno laboral me gusta formar parte de equipos multidisciplinares, con personas que tengan gusto por la profesión y que les importe lo que hacen. Valoro las empresas con horarios flexibles, que permitan una conciliación verdadera. Valoro el trabajo remoto y la autonomía para realizar el trabajo, sobre todo porque permite ampliar el abanico social en el que te mueves, conocer gente de otras comunidades incluso otros países y por supuesto poder encontrarse personalmente de vez en cuando :)\n"
+  }
+}
