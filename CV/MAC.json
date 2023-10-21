@@ -382,6 +382,21 @@
         }
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Professional Java JDK",
+        "startDate": "2012-01-01",
+        "institution": {
+          "name": "Oracle",
+          "description": "Certificación Java",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/812dd960-320c-409d-b71c-081cb2072327_logo-oracle.png",
+            "alt": "logo-oracle.png"
+          }
+        },
+        "finishDate": "2012-03-01"
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Scrum Level",
