@@ -306,6 +306,20 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Gestión de proyectos Software con Git y GitHub",
+        "startDate": "2018-03-01",
+        "institution": {
+          "name": "Miriadax. Universidad Politécnica de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/1ad50ac3-6ca0-4caf-854b-a5899c38b79a_logo_mx_1x.png",
+            "alt": "logo_mx_1x.png"
+          }
+        },
+        "finishDate": "2018-03-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Hacking ético y ciberseguridad",
         "startDate": "2019-07-01",
         "institution": {
