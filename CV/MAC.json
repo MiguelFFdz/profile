@@ -327,6 +327,16 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
+        "startDate": "2007-10-01",
+        "institution": {
+          "name": "CIFP Valliniello (Avilés)."
+        },
+        "finishDate": "2009-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Técnico Superior en Informática de gestión",
         "startDate": "1997-10-01",
         "institution": {
