@@ -110,7 +110,19 @@
       },
       {
         "skill": {
+          "name": "AWS Cloudwatch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
           "type": "technology"
         }
       },
@@ -134,6 +146,18 @@
       },
       {
         "skill": {
+          "name": "Google Cloud Firestore",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
@@ -141,6 +165,12 @@
       {
         "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
           "type": "technology"
         }
       },
