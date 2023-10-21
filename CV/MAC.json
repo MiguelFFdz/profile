@@ -278,6 +278,23 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Scrum Master",
+        "startDate": "2018-09-01",
+        "institution": {
+          "name": "Scrum Manager",
+          "description": "Certificado de capacitación necesaria para comprender o gestionar los factores que crean equipos ágiles.  ",
+          "URL": "https://scrummanager.com/website/c/profile/member.php?id=21436",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/97fffb0f-1a68-490f-be5d-dd8954b67f52_smalllogo.png",
+            "alt": "smalllogo.png"
+          }
+        }
+      }
+    ],
     "softSkills": [
       {
         "skill": {
