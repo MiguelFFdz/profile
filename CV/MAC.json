@@ -280,6 +280,20 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo de servicios en la nube con HTML5, CSS3, JavaScript 6-7-8-9 y node.js",
+        "startDate": "2019-02-01",
+        "institution": {
+          "name": "Miriadax. Universidad Politécnica de Madrid.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/e191a9cb-1d4e-499e-8a24-b43ccb6bbf0e_logo_mx_1x.png",
+            "alt": "logo_mx_1x.png"
+          }
+        },
+        "finishDate": "2019-02-01"
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "FPII TECNICO ESPECIALISTA INFORMATICA DE GESTION",
