@@ -676,7 +676,7 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Scrum Master",
         "startDate": "2018-09-01",
         "institution": {
@@ -687,7 +687,8 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/97fffb0f-1a68-490f-be5d-dd8954b67f52_smalllogo.png",
             "alt": "smalllogo.png"
           }
-        }
+        },
+        "finishDate": "2018-09-01"
       },
       {
         "studyType": "officialDegree",
