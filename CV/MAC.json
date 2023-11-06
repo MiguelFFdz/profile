@@ -660,7 +660,7 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Scrum Level",
         "startDate": "2018-12-01",
         "institution": {
@@ -671,7 +671,8 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/eaa87135-8e9b-44b3-bcab-4b27a7dc7c7d_smalllogo-(1).png",
             "alt": "smalllogo (1).png"
           }
-        }
+        },
+        "finishDate": "2018-12-01"
       },
       {
         "studyType": "certification",
