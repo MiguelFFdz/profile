@@ -630,7 +630,7 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Product Owner",
         "startDate": "2018-10-01",
         "institution": {
@@ -641,7 +641,8 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/21/e73acc0f-a27a-46e5-9bb7-952d196d68d3_smalllogo-(2).png",
             "alt": "smalllogo (2).png"
           }
-        }
+        },
+        "finishDate": "2018-10-01"
       },
       {
         "studyType": "unaccredited",
